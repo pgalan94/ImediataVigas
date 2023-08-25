@@ -1,0 +1,1 @@
+Este trabalho é licenciado sob a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Brazil License. Para ver uma cópia da licença, visite https://creativecommons.org/licenses/by-nc-nd/3.0/br/ ou envie uma carta para Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
