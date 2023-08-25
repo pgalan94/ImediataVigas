@@ -14,11 +14,12 @@ substituidas por `pd.concat([DataFrame, df])`
 
 ## Links:
 
-https://repositorio.ufscar.br/handle/ufscar/16716
+Artigo do TCC publicado: https://repositorio.ufscar.br/handle/ufscar/16716
 
 ## Instalação:
 
 Versão do Python recomendada: *3.11.4*
+No windows, utilizando esta versão do Python, as dependências podem ser instaladas rodando o script `install.bat`
 
 1. Clone ou baixe os arquivos deste repositório.
 
@@ -26,7 +27,7 @@ Versão do Python recomendada: *3.11.4*
 
 2. Instalar dependências
 
-`  pip install -r requirements  `
+` pip install -r requirements `
 
 3. Rodar o script
 
