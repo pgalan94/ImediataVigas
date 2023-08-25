@@ -4,6 +4,8 @@
 
 Este aplicativo foi desenvolvido como parte de um trabalho de conclusão de curso de engenharia civil pela Universidade Federal de São Carlos. Trata-se de uma calculadora de flechas imediatas, para vigas biapoiada e concreto armado. O programa não verifica se as solicitações na viga ultrapassam a resistência máxima do elemento estrutural.
 
+Para realização dos cálculos utilizando o método dos elementos finitos, este script utiliza a biblioteca [anaStruct](https://github.com/ritchie46/anaStruct).
+
 ## Notas: 
 Para Algumas atualizações no código foram realizadas, pois atualizações da
 biblioteca pandas tornaram o código incompatível. Como o Artigo foi
@@ -24,7 +26,7 @@ No windows, utilizando esta versão do Python, as dependências podem ser instal
 
 1. Clone ou baixe os arquivos deste repositório.
 
-` git clone git@github.com:pgalan94/ImediataVigas.git `
+` git clone https://github.com/pgalan94/ImediataVigas.git `
 
 2. Instalar dependências
 
